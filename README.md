@@ -7,7 +7,7 @@
 
 ### Connect with me  
 <a href="https://upekshaindeewari.github.io/portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Check_My_Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://github.com/UpekshaIndeewari" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
