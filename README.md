@@ -1,11 +1,24 @@
-<h1 align="center">Hi 👋, I'm Upeksha Indeewari</h1>
+<h1 align="center">𝐇𝐢 👋, 𝐈'𝐦 𝐔𝐩𝐞𝐤𝐬𝐡𝐚 𝐈𝐧𝐝𝐞𝐞𝐰𝐚𝐫𝐢</h1>
 
+<h2 align="center"> 🌍 𝐆𝐈𝐒 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭| 🛰️ 𝐄𝐎 𝐃𝐚𝐭𝐚 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 & 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 | 🚀 𝐆𝐈𝐒 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=upekshaindeewari&label=Profile%20views&color=0e75b6&style=flat" alt="upekshaindeewari" /> </p>
+<h3 align="left">👩‍💻 About Me</h3>
 
-- GIS Analyst | Spatial Data Analyst | GIS Engineer
+I am a 𝗚𝗜𝗦 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 and 𝗘𝗮𝗿𝘁𝗵 𝗢𝗯𝘀𝗲𝗿𝘃𝗮𝘁𝗶𝗼𝗻 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 with strong experience in spatial data analysis, geospatial modeling, and visualization. My work focuses on transforming satellite imagery and geospatial datasets into actionable insights for environmental monitoring, planning, and decision-making.
 
-### Connect with me  
+I bring together 𝗮𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗿𝗲𝗺𝗼𝘁𝗲 𝘀𝗲𝗻𝘀𝗶𝗻𝗴 𝗲𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲 with strong 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗮𝗻𝗱 𝗱𝗮𝘁𝗮 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 capabilities. This allows me to design 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗲, 𝗲𝗻𝗱-𝘁𝗼-𝗲𝗻𝗱 𝗴𝗲𝗼𝘀𝗽𝗮𝘁𝗶𝗮𝗹 𝘀𝘆𝘀𝘁𝗲𝗺𝘀.
+
+<h3 align="left">🔍 What I Do</h3>
+
+🛰️ Earth Observation & Remote Sensing Analysis 
+
+🗺️ Spatial Data Analysis, Mapping & Visualization
+
+🤖 Machine Learning, Deep Learning for Spatial & Environmental Data
+
+🧩 GIS Application Development, Cloud & Automation
+
+<h3 align="left">🌐 Connect with me</h3>  
 <a href="https://upekshaindeewari.github.io/portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Check_My_Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
 </a>
